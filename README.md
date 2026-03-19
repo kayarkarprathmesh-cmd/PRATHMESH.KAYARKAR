@@ -1,5 +1,5 @@
 # 💫 About Me:
-My self Prathmesh Kayarkar currently studying in final year of (ECE) from Tulsiramji Gaikwad Patil College of Engineering & Technology ,Nagpur Maharshtra <br>I have relevent experience on Programming skills such as python, javascript, html ,css, etc.<br>made mini & microproject such as Automatic Human detector bell, hybrid power generator<br>& AI based posture detector for heavy vehicals. 
+My self Prathmesh Kayarkar currently studying in final year of (ECE) from Tulsiramji Gaikwad Patil College of Engineering & Technology ,Nagpur Maharashtra <br>I have relevent experience on Programming skills such as python, javascript, html ,css, etc.<br>made mini & microproject such as Automatic Human detector bell, hybrid power generator<br>& AI based posture detector for heavy vehicals. 
 
 
 ## 🌐 Socials:
